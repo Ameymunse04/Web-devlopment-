@@ -1,0 +1,18 @@
+<form>
+  <label>Hot Beverage:</label><br>
+
+  <input type="radio" id="tea" name="beverage" value="tea">
+  <label for="tea">Tea</label><br>
+
+  <input type="radio" id="coffee" name="beverage" value="coffee">
+  <label for="coffee">Coffee</label><br>
+
+  <input type="radio" id="milk" name="beverage" value="milk">
+  <label for="milk">Milk</label><br><br>
+
+  <label for="name">Your Name:</label>
+  <input type="text" id="name" name="name"><br><br>
+
+  <input type="submit" value="Submit">
+  <button type="button">Click Me</button>
+</form>
