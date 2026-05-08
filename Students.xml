@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="students.xsl"?>
 <students>
-    <student>
-        <name>Rahul Sharma</name>
-        <rollno>101</rollno>
-        <course>Computer Science</course>
-    </student>
-    <student>
-        <name>Priya Singh</name>
-        <rollno>102</rollno>
-        <course>Information Technology</course>
-    </student>
-    <student>
-        <name>Amit Patel</name>
-        <rollno>103</rollno>
-        <course>Electronics</course>
-    </student>
+  <student>
+    <name>Rahul Patil</name>
+    <rollno>101</rollno>
+    <course>Computer sci</course>
+  </student>
+  <student>
+    <name>Prasad Kulkarni</name>
+    <rollno>102</rollno>
+    <course>ENTC</course>
+  </student>
+  <student>
+    <name>Amey Munse</name>
+    <rollno>61</rollno>
+    <course>computer  science</course>
+  </student>
 </students>
